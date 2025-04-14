@@ -1,1 +1,3 @@
 # my-notebooks-repo
+
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJCFW2sxBUl/lQekUeBTAMAa9dxuGB/zG4ZnAdM7XzyJmYdM/vzVThFATLRwFU/CWaWClU5YqsjzT4lGUEcVpGs=
